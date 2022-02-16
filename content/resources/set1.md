@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problems on principal stresses.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-52-mechanics-of-fluids-spring-2006/43b20f9253741bfdb796dabb2cd95ec6_set1.pdf
+file: /media/courses/10-52-mechanics-of-fluids-spring-2006/43b20f9253741bfdb796dabb2cd95ec6_set1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: set1.pdf
 uid: 43b20f92-5374-1bfd-b796-dabb2cd95ec6

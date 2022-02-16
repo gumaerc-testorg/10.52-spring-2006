@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains problems on fluid mechanics.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-52-mechanics-of-fluids-spring-2006/8eb22f04f99c096d5e5d11eb9fab19aa_set2.pdf
+file: /media/courses/10-52-mechanics-of-fluids-spring-2006/8eb22f04f99c096d5e5d11eb9fab19aa_set2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: set2.pdf
 uid: 8eb22f04-f99c-096d-5e5d-11eb9fab19aa

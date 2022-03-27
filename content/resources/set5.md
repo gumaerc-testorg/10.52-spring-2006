@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4d21b163-a44e-e0aa-7a83-c50ea8d04d56
 resourcetype: Document
 title: set5.pdf
 uid: cb2f70be-42e6-490a-f9d1-07aaddd553d7

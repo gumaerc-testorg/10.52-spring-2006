@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains an overview of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fae5ef52-a966-8450-fb79-3854cb1d914e
 ---
@@ -21,7 +24,7 @@ There is no required textbook for this course. However, students may find the fo
 
 Panton, Ronald L. _Incompressible Flow._ 3rd ed. Hoboken, NJ: John Wiley & Sons, Inc, 2005. ISBN: 9780471261223.
 
-A series of fluid mechanics films are given in [study materials]({{< baseurl >}}/pages/study-materials) section to supplement content presented in lectures.
+A series of fluid mechanics films are given in {{% resource_link 47b7c747-5fa2-13d7-674a-c2a111b766ee "study materials" %}} section to supplement content presented in lectures.
 
 Projects
 --------

@@ -6,6 +6,7 @@ file: /courses/10-52-mechanics-of-fluids-spring-2006/add569baeebc8512b96e9589fdc
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: set3.pdf
 uid: add569ba-eebc-8512-b96e-9589fdccac55
 ---
 This resource contains problems on Mass transfer, force, pressure, shear stress, control volume, and velocity.
-

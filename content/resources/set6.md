@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on similarity transformation, potential
   function and multiplicative constant.
 file: /courses/10-52-mechanics-of-fluids-spring-2006/649fe5bb66db21dfea2f7ca4f440b5d1_set6.pdf
+file_size: 129125
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on streamlines, particle line, rectilinear
   vortex, the potential function, and stream function.
 file: /courses/10-52-mechanics-of-fluids-spring-2006/58c44af975d72750b3894b06a370221c_set4.pdf
+file_size: 48612
 file_type: application/pdf
 learning_resource_types:
 - Assignments

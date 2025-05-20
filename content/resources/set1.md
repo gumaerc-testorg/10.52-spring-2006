@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains problems on principal stresses.
-file: /ol-ocw-studio-app/courses/10-52-mechanics-of-fluids-spring-2006/43b20f9253741bfdb796dabb2cd95ec6_set1.pdf
+file: /courses/10-52-mechanics-of-fluids-spring-2006/43b20f9253741bfdb796dabb2cd95ec6_set1.pdf
 file_size: 46311
 file_type: application/pdf
 learning_resource_types:
